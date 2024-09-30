@@ -114,8 +114,8 @@ To improve predictive performance, several features were engineered:
 
 ## 📝 Project Report
 
-- [Python Analysis Notebook](https://github.com/ssgalactic/delhivery-feature-engineering-case-study/blob/main/path/to/your/python_analysis_notebook.ipynb)  
-- [Detailed PDF Report](https://github.com/ssgalactic/delhivery-feature-engineering-case-study/blob/main/path/to/your/detailed_pdf_report.pdf)
+- [Python Analysis Notebook](https://github.com/ssgalactic/Business_Case_Delhivery_Feature_Engineering/blob/main/Business_Case_Delhivery_Feature_Engineering_Sabyasachi.ipynb)  
+- [Detailed PDF Report](https://github.com/ssgalactic/Business_Case_Delhivery_Feature_Engineering/blob/main/Compressed_Business_Case_Delhivery_Feature%20Engineering_Sabyasachi_PDF.pdf)
 
 ---
 
